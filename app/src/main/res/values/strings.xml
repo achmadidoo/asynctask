@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="run_async_task">Run</string>
+    <string name="sleep_time_in_seconds">Sleep time in Seconds:</string>
+</resources>
